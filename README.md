@@ -1,1 +1,1 @@
-This repository is a loose collection of notebooks used for teaching and outreach. Feel free to use and/or further modify. I'd love to hear what you do with this, feel free to shoot me an email. If you reuse this for your own work, I'd appreciate it if you mentioned to me/this repo.
+This repository is a loose collection of notebooks used for teaching and outreach. Feel free to use and/or further modify. I'd love to hear what you do with this, feel free to shoot me an email. If you reuse this, I'd appreciate it if you mentioned to me/this repo.
